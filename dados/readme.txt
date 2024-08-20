@@ -1,0 +1,1 @@
+Pasta para armazenar dados de demos. A serem consumidas por pipelines.
